@@ -1,7 +1,7 @@
 # My Portfolio
 Welcome to my portfolio! This project showcases my skills, projects, and experiences as a web developer.
 
-### Weblink: [Live Website](https://rishavchanda.netlify.app)
+
 ## Some Images:
 <img width="450px;" src="https://github.com/sohan03/Portfolio-nextjs/blob/main/Portfolio-nextjs/src/images/start.png"/>
 <img width="450px;" src="https://github.com/sohan03/Portfolio-nextjs/blob/main/Portfolio-nextjs/src/images/skils.png"/>
