@@ -3,12 +3,12 @@ Welcome to my portfolio! This project showcases my skills, projects, and experie
 
 
 ## Some Images:
-<img width="450px;" src="https://github.com/sohan03/Portfolio-nextjs/blob/main/Portfolio-nextjs/src/images/start.png"/>
+<img width="450px;" src="https://github.com/sohan03/portfolio/blob/main/Portfolio-nextjs/src/images/HeroImage.jpg"/>
 <img width="450px;" src="https://github.com/sohan03/Portfolio-nextjs/blob/main/Portfolio-nextjs/src/images/skils.png"/>
-<img width="450px;" src="https://github.com/sohan03/Portfolio-nextjs/blob/main/Portfolio-nextjs/src/images/experience.png"/>
-<img width="450px;" src="https://github.com/sohan03/Portfolio-nextjs/blob/main/Portfolio-nextjs/src/images/education.png"/>
-<img width="450px;" src="https://github.com/sohan03/Portfolio-nextjs/blob/main/Portfolio-nextjs/src/images/Projects.png"/>
-<img width="450px;" src="https://github.com/sohan03/Portfolio-nextjs/blob/main/Portfolio-nextjs/src/images/footer.png"/>
+<img width="450px;" src="https://github.com/sohan03/portfolio/blob/main/Portfolio-nextjs/src/images/experience.png"/>
+<img width="450px;" src="https://github.com/sohan03/portfolio/blob/main/Portfolio-nextjs/src/images/education.png"/>
+<img width="450px;" src="https://github.com/sohan03/portfolio/blob/main/Portfolio-nextjs/src/images/Projects.png"/>
+<img width="450px;" src="https://github.com/sohan03/portfolio/blob/main/Portfolio-nextjs/src/images/footer.png"/>
 
 
 ## Table of Contents
